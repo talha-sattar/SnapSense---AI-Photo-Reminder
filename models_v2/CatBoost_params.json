@@ -1,0 +1,9 @@
+{
+  "iterations": 500,
+  "learning_rate": 0.05,
+  "depth": 6,
+  "loss_function": "Logloss",
+  "verbose": false,
+  "eval_metric": "AUC",
+  "random_state": 42
+}

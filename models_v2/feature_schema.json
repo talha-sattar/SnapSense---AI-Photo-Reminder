@@ -1,0 +1,19 @@
+{
+  "target": "reminder",
+  "categorical": [
+    "d_o_w",
+    "day_part",
+    "location",
+    "calendar_event",
+    "contacts_count"
+  ],
+  "binary": [
+    "calendar_active",
+    "pref_place",
+    "pref_calendar_event",
+    "pref_contacts"
+  ],
+  "numeric": [
+    "hour"
+  ]
+}

@@ -1,0 +1,249 @@
+feature,coef
+cat__d_o_w_0,0.0775854215374316
+cat__d_o_w_1,-0.0485091086370968
+cat__d_o_w_2,0.12467182542229185
+cat__d_o_w_3,0.10180750761778175
+cat__d_o_w_4,0.08417377166326782
+cat__d_o_w_5,0.004593051020004889
+cat__d_o_w_6,0.05986300755386313
+cat__day_part_Afternoon,0.445875287068892
+cat__day_part_Dawn,-0.34222325850072266
+cat__day_part_Dusk,0.25081725561039825
+cat__day_part_Early Afternoon,0.5179896578380813
+cat__day_part_Early Evening,0.2569704590328262
+cat__day_part_Early Morning,-0.2253979178352142
+cat__day_part_Evening,0.12255135521693117
+cat__day_part_Late Afternoon,0.5002534396880896
+cat__day_part_Late Evening,0.08771730587805567
+cat__day_part_Late Morning,-0.3577957195611716
+cat__day_part_Midnight,0.31147963734256534
+cat__day_part_Morning,-0.30094157058895055
+cat__day_part_Night,-0.46808656070724386
+cat__day_part_Noon or Midday,-0.39502389430501844
+cat__location_accounting,0.06024009038133729
+cat__location_airport,-0.41121957681154375
+cat__location_amusement_park,0.92095266855933
+cat__location_aquarium,1.5618873088876293
+cat__location_art_gallery,0.9087874521847953
+cat__location_atm,-0.19367676846377416
+cat__location_bakery,0.058906380785372935
+cat__location_bank,-0.11441805342837076
+cat__location_bar,1.0824496959018481
+cat__location_beauty_salon,-0.10872630350597073
+cat__location_bicycle_store,0.07296050166729179
+cat__location_book_store,0.21582192589795504
+cat__location_bowling_alley,-0.04298002136083158
+cat__location_bus_station,-0.7099793614532981
+cat__location_cafe,-0.20971419178435702
+cat__location_campground,0.10045390867477742
+cat__location_car_dealer,0.05169924099728892
+cat__location_car_rental,-0.22902908905229696
+cat__location_car_repair,-0.010496503604799517
+cat__location_car_wash,-0.02278286455267856
+cat__location_casino,0.20545666199427254
+cat__location_cemetery,-1.091122777267713
+cat__location_church,-0.1261132890025038
+cat__location_city_hall,-0.03075307927126646
+cat__location_clothing_store,-0.018636733184184278
+cat__location_convenience_store,-0.047764251745695534
+cat__location_courthouse,-0.13339602318590457
+cat__location_dentist,-0.07146331092309989
+cat__location_department_store,-0.17894349245816368
+cat__location_doctor,-0.13390233772014098
+cat__location_drugstore,0.1509096371264842
+cat__location_electrician,0.1436138672615881
+cat__location_electronics_store,-0.37245464510030213
+cat__location_embassy,0.03541973981572273
+cat__location_fire_station,-0.028597768903028665
+cat__location_florist,-0.12197968033040953
+cat__location_funeral_home,-0.41800204138339114
+cat__location_furniture_store,0.14734592308370834
+cat__location_gas_station,0.1289010324137533
+cat__location_gym,-0.12877669982224718
+cat__location_hair_care,0.053950153301850386
+cat__location_hardware_store,0.21131652003894938
+cat__location_hindu_temple,-0.014883203970577791
+cat__location_home_goods_store,-0.037790989141425466
+cat__location_hospital,-1.0530204011319255
+cat__location_insurance_agency,0.06126085839210206
+cat__location_jewelry_store,0.07334457655040767
+cat__location_laundry,-0.040509498021263676
+cat__location_lawyer,-0.0647620954839544
+cat__location_library,-0.1149395543902715
+cat__location_light_rail_station,0.002397466497661807
+cat__location_liquor_store,-0.22021027192001377
+cat__location_local_government_office,-0.20032859857563418
+cat__location_locksmith,-0.02478334014430228
+cat__location_lodging,-0.15915722375062896
+cat__location_meal_delivery,-0.009107797124784035
+cat__location_meal_takeaway,-0.012962870687297314
+cat__location_mosque,-0.0614466479477355
+cat__location_movie_rental,-0.06743958997239674
+cat__location_movie_theater,-0.11537133484123514
+cat__location_moving_company,0.08261528821985871
+cat__location_museum,1.021529300287758
+cat__location_night_club,0.69273701926217
+cat__location_painter,0.12754634501481882
+cat__location_park,0.9154161774154019
+cat__location_parking,-0.08098288205167993
+cat__location_pet_store,0.15507478233585323
+cat__location_pharmacy,0.21508474779884573
+cat__location_physiotherapist,0.13811419150706727
+cat__location_plumber,-0.15323133192738858
+cat__location_police,-0.09363113033428222
+cat__location_post_office,-0.12793354194863168
+cat__location_primary_school,-0.8220236606693941
+cat__location_real_estate_agency,-0.13268876789372683
+cat__location_restaurant,1.1296431935781457
+cat__location_roofing_contractor,-0.193155622328365
+cat__location_rv_park,0.03421366393657252
+cat__location_school,-0.6997436328233569
+cat__location_secondary_school,-0.6832371369913621
+cat__location_shoe_store,0.04803331191130614
+cat__location_shopping_mall,-0.13860305326343272
+cat__location_spa,-0.05825548402755105
+cat__location_stadium,1.010824715981458
+cat__location_storage,0.10104674664785886
+cat__location_store,-0.1453077765334601
+cat__location_subway_station,-0.3279518510008253
+cat__location_supermarket,0.058249272969471286
+cat__location_synagogue,0.04832109517658192
+cat__location_taxi_stand,-0.1749371357076524
+cat__location_tourist_attraction,0.9508200885438038
+cat__location_train_station,-0.44112750666817163
+cat__location_transit_station,-0.17156709034654846
+cat__location_travel_agency,-0.05893750239187718
+cat__location_university,-0.8130513561223506
+cat__location_veterinary_care,-0.026348203122312976
+cat__location_zoo,-0.07880312725175205
+cat__calendar_event_America Recycles Day,-0.20921815900186347
+cat__calendar_event_American Indian Heritage Day,-0.13873681008273792
+cat__calendar_event_Anniversary,0.4946655372796383
+cat__calendar_event_Armed Forces Day,-0.14953470091245258
+cat__calendar_event_Bastille Day,-0.15559679280664077
+cat__calendar_event_Bennington Battle Day,-0.12322113449173756
+cat__calendar_event_Bill of Rights Day,-0.06379341619722549
+cat__calendar_event_Birthday,0.776607563969655
+cat__calendar_event_Black Friday,0.0035784607279406395
+cat__calendar_event_Black History Month,-0.1711926223625319
+cat__calendar_event_Booster,-0.22496367366381617
+cat__calendar_event_Brunch,-0.1544795670859521
+cat__calendar_event_Bunker Hill Day,-0.09905333886367486
+cat__calendar_event_Car Rental,-0.1861150116902597
+cat__calendar_event_Checkup,-0.01853507296262444
+cat__calendar_event_Cinco de Mayo,-0.21749716268026983
+cat__calendar_event_Class,-0.15276344598011493
+cat__calendar_event_Columbus Day,0.0059938684809488964
+cat__calendar_event_Concert,0.7087948897783947
+cat__calendar_event_Constitution Day and Citizenship Day,-0.3939568669799252
+cat__calendar_event_Counseling,-0.1168916663853622
+cat__calendar_event_Cyber Monday,-0.0680807382043267
+cat__calendar_event_César Chávez Day,-0.0030929941618663527
+cat__calendar_event_Day After Christmas Day,-0.008824029795674624
+cat__calendar_event_Day After Thanksgiving,-0.0369777760545411
+cat__calendar_event_Dentist Appointment,-4.296146143824888e-05
+cat__calendar_event_Dinner,0.8749159666856359
+cat__calendar_event_Doctor Appointment,0.029254808133083985
+cat__calendar_event_Easter,-0.19431849566179482
+cat__calendar_event_Emancipation Day,-0.14101899077686933
+cat__calendar_event_Engagement,0.5665210330409514
+cat__calendar_event_Evacuation Day,0.12763341748183113
+cat__calendar_event_Family Day,-0.10625516072505824
+cat__calendar_event_Father’s Day,0.5637872011259074
+cat__calendar_event_Feast of Our Lady of Guadalupe,-0.16308886518609486
+cat__calendar_event_Feast of St. Francis of Assisi,-0.026294641426716867
+cat__calendar_event_Feast of the Immaculate Conception,0.021851739766854752
+cat__calendar_event_Final,0.04181541014904372
+cat__calendar_event_Flag Day,-0.029795566696917186
+cat__calendar_event_Flight,-0.03752739808420175
+cat__calendar_event_Funeral,0.0961332178148285
+cat__calendar_event_Graduation,0.5161762067866285
+cat__calendar_event_Groundhog Day,-0.06885507042309615
+cat__calendar_event_Gym,-0.047106360282072095
+cat__calendar_event_Halloween,-0.09959078368445318
+cat__calendar_event_Hotel,-0.14530323250993193
+cat__calendar_event_Idaho Human Rights Day,-0.24595966248848217
+cat__calendar_event_Inauguration Day,-0.13368118282860603
+cat__calendar_event_Independence Day,0.650762975132969
+cat__calendar_event_Indigenous Peoples’ Day,0.01590782930117457
+cat__calendar_event_Interview,-0.14737336203661422
+cat__calendar_event_Juneteenth,-0.3475388443176285
+cat__calendar_event_Kamehameha Day,-0.026864537158909654
+cat__calendar_event_Kwanzaa,-0.01791770699098427
+cat__calendar_event_Labor Day,-0.2245298047035777
+cat__calendar_event_Lecture,-0.022220415549210455
+cat__calendar_event_Lei Day,-0.23439069538510757
+cat__calendar_event_Leif Erikson Day,-0.10419501271255055
+cat__calendar_event_Mardi Gras,0.5610937461600999
+cat__calendar_event_Marine Corps Birthday,-0.04997492177449172
+cat__calendar_event_Martin Luther King Jr. Day,-0.017099225700531
+cat__calendar_event_Meeting,-0.12037528308673942
+cat__calendar_event_Memorial Day,-0.05295928579455767
+cat__calendar_event_Midterm,-0.029059203356836923
+cat__calendar_event_Movie,-0.25971947897585157
+cat__calendar_event_National Aviation Day,0.07795576956908538
+cat__calendar_event_National Beer Day,-0.06390419931408496
+cat__calendar_event_National Children’s Day,-0.22081962101131206
+cat__calendar_event_National Grandparents Day,-0.09964168207597592
+cat__calendar_event_National Immigrants Day,-0.10443343741813399
+cat__calendar_event_National Parents’ Day,-0.3750684667206986
+cat__calendar_event_National Tartan Day,-0.07202705618518428
+cat__calendar_event_National Vietnam War Veterans Day,0.05092253167475996
+cat__calendar_event_National Wear Red Day,-0.16221076010943805
+cat__calendar_event_Navy Birthday,0.20736543675469205
+cat__calendar_event_Nevada Day,-0.05791691787755448
+cat__calendar_event_New Year’s Day,0.6837403124774807
+cat__calendar_event_New Year’s Eve,0.4565164876701957
+cat__calendar_event_Orthodox Easter,0.11742750476942387
+cat__calendar_event_Palm Sunday,-0.21009646338074756
+cat__calendar_event_Party,0.657464187561584
+cat__calendar_event_Patriot Day,0.016410496468201273
+cat__calendar_event_Patriot’s Day,-0.013649204020776205
+cat__calendar_event_Pearl Harbor Remembrance Day,0.007518798557025843
+cat__calendar_event_Pioneer Day,0.04620813908106936
+cat__calendar_event_Presentation,-0.2561780637718749
+cat__calendar_event_Presidents’ Day,-0.12717493372980898
+cat__calendar_event_Prince Jonah Kūhiō Kalaniana‘ole Day,-0.11292402717277372
+cat__calendar_event_Renewal,-0.09236411906796858
+cat__calendar_event_Rent Due,-0.11284354815174694
+cat__calendar_event_Reunion,-0.17036373185507955
+cat__calendar_event_Road Trip,0.02991568737790631
+cat__calendar_event_Rosa Parks Day,0.08315425983788131
+cat__calendar_event_San Jacinto Day,-0.2921451176962737
+cat__calendar_event_School Break,-0.0006409313166400641
+cat__calendar_event_Small Business Saturday,-0.28085778234595066
+cat__calendar_event_Sports Game,0.6541644230193967
+cat__calendar_event_St. Nicholas’ Day,-0.14088330711935346
+cat__calendar_event_St. Patrick’s Day,-0.07910824132904153
+cat__calendar_event_Statehood Day in Hawaii,0.046928114020023996
+cat__calendar_event_Susan B. Anthony’s Birthday,0.06574305228368856
+cat__calendar_event_Sweetest Day,-0.03876408714275804
+cat__calendar_event_Tax,-0.02739033488665816
+cat__calendar_event_Texas Independence Day,-0.10564873437666962
+cat__calendar_event_Thanksgiving,0.558217988627851
+cat__calendar_event_Training,-0.18125304333559772
+cat__calendar_event_Unity Day,-0.14134098560324226
+cat__calendar_event_Valentine’s Day,0.4862109631959692
+cat__calendar_event_Veterans Day,-0.09896280457412279
+cat__calendar_event_Victory Day,-0.1404658194243918
+cat__calendar_event_Wedding,0.47716318116303325
+cat__calendar_event_Women’s Equality Day,-0.09720153657710516
+cat__calendar_event_Yoga,0.11292693533532605
+cat__calendar_event_none,-0.8254025773486885
+cat__contacts_count_0,-3.250464047401262
+cat__contacts_count_1,-2.453512841261599
+cat__contacts_count_10,1.0353689650717661
+cat__contacts_count_10+,1.0782185019111326
+cat__contacts_count_2,-0.4842432987155632
+cat__contacts_count_3,-0.36021654989986207
+cat__contacts_count_4,-0.07537824884950531
+cat__contacts_count_5,1.138478825041928
+cat__contacts_count_6,0.9932124483648336
+cat__contacts_count_7,0.9982959690139998
+cat__contacts_count_8,1.0657696291391507
+cat__contacts_count_9,0.7186561237626972
+bin__calendar_active,1.2295880535262547
+bin__pref_place,4.938127108394335
+bin__pref_calendar_event,3.354182744704117
+bin__pref_contacts,4.6945820451297475
+num__hour,0.3624577836726938

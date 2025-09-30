@@ -1,0 +1,249 @@
+feature,importance
+cat__d_o_w_0,119
+cat__d_o_w_1,132
+cat__d_o_w_2,90
+cat__d_o_w_3,120
+cat__d_o_w_4,107
+cat__d_o_w_5,105
+cat__d_o_w_6,128
+cat__day_part_Afternoon,81
+cat__day_part_Dawn,15
+cat__day_part_Dusk,29
+cat__day_part_Early Afternoon,81
+cat__day_part_Early Evening,36
+cat__day_part_Early Morning,14
+cat__day_part_Evening,25
+cat__day_part_Late Afternoon,44
+cat__day_part_Late Evening,0
+cat__day_part_Late Morning,74
+cat__day_part_Midnight,0
+cat__day_part_Morning,62
+cat__day_part_Night,52
+cat__day_part_Noon or Midday,39
+cat__location_accounting,20
+cat__location_airport,31
+cat__location_amusement_park,37
+cat__location_aquarium,51
+cat__location_art_gallery,40
+cat__location_atm,34
+cat__location_bakery,23
+cat__location_bank,25
+cat__location_bar,62
+cat__location_beauty_salon,28
+cat__location_bicycle_store,33
+cat__location_book_store,32
+cat__location_bowling_alley,21
+cat__location_bus_station,42
+cat__location_cafe,23
+cat__location_campground,10
+cat__location_car_dealer,30
+cat__location_car_rental,18
+cat__location_car_repair,24
+cat__location_car_wash,23
+cat__location_casino,26
+cat__location_cemetery,89
+cat__location_church,21
+cat__location_city_hall,26
+cat__location_clothing_store,23
+cat__location_convenience_store,31
+cat__location_courthouse,14
+cat__location_dentist,16
+cat__location_department_store,24
+cat__location_doctor,37
+cat__location_drugstore,13
+cat__location_electrician,17
+cat__location_electronics_store,33
+cat__location_embassy,10
+cat__location_fire_station,17
+cat__location_florist,31
+cat__location_funeral_home,36
+cat__location_furniture_store,38
+cat__location_gas_station,36
+cat__location_gym,27
+cat__location_hair_care,51
+cat__location_hardware_store,23
+cat__location_hindu_temple,36
+cat__location_home_goods_store,7
+cat__location_hospital,80
+cat__location_insurance_agency,19
+cat__location_jewelry_store,25
+cat__location_laundry,35
+cat__location_lawyer,11
+cat__location_library,15
+cat__location_light_rail_station,18
+cat__location_liquor_store,23
+cat__location_local_government_office,23
+cat__location_locksmith,21
+cat__location_lodging,26
+cat__location_meal_delivery,20
+cat__location_meal_takeaway,14
+cat__location_mosque,41
+cat__location_movie_rental,29
+cat__location_movie_theater,19
+cat__location_moving_company,30
+cat__location_museum,40
+cat__location_night_club,45
+cat__location_painter,22
+cat__location_park,39
+cat__location_parking,13
+cat__location_pet_store,20
+cat__location_pharmacy,40
+cat__location_physiotherapist,30
+cat__location_plumber,10
+cat__location_police,24
+cat__location_post_office,26
+cat__location_primary_school,72
+cat__location_real_estate_agency,19
+cat__location_restaurant,43
+cat__location_roofing_contractor,37
+cat__location_rv_park,1
+cat__location_school,67
+cat__location_secondary_school,72
+cat__location_shoe_store,20
+cat__location_shopping_mall,26
+cat__location_spa,29
+cat__location_stadium,40
+cat__location_storage,21
+cat__location_store,13
+cat__location_subway_station,21
+cat__location_supermarket,33
+cat__location_synagogue,34
+cat__location_taxi_stand,36
+cat__location_tourist_attraction,38
+cat__location_train_station,46
+cat__location_transit_station,14
+cat__location_travel_agency,8
+cat__location_university,71
+cat__location_veterinary_care,34
+cat__location_zoo,22
+cat__calendar_event_America Recycles Day,24
+cat__calendar_event_American Indian Heritage Day,0
+cat__calendar_event_Anniversary,22
+cat__calendar_event_Armed Forces Day,13
+cat__calendar_event_Bastille Day,12
+cat__calendar_event_Bennington Battle Day,16
+cat__calendar_event_Bill of Rights Day,22
+cat__calendar_event_Birthday,36
+cat__calendar_event_Black Friday,12
+cat__calendar_event_Black History Month,13
+cat__calendar_event_Booster,22
+cat__calendar_event_Brunch,13
+cat__calendar_event_Bunker Hill Day,16
+cat__calendar_event_Car Rental,27
+cat__calendar_event_Checkup,7
+cat__calendar_event_Cinco de Mayo,15
+cat__calendar_event_Class,10
+cat__calendar_event_Columbus Day,8
+cat__calendar_event_Concert,47
+cat__calendar_event_Constitution Day and Citizenship Day,30
+cat__calendar_event_Counseling,13
+cat__calendar_event_Cyber Monday,9
+cat__calendar_event_César Chávez Day,6
+cat__calendar_event_Day After Christmas Day,5
+cat__calendar_event_Day After Thanksgiving,6
+cat__calendar_event_Dentist Appointment,9
+cat__calendar_event_Dinner,52
+cat__calendar_event_Doctor Appointment,17
+cat__calendar_event_Easter,17
+cat__calendar_event_Emancipation Day,11
+cat__calendar_event_Engagement,28
+cat__calendar_event_Evacuation Day,15
+cat__calendar_event_Family Day,13
+cat__calendar_event_Father’s Day,32
+cat__calendar_event_Feast of Our Lady of Guadalupe,5
+cat__calendar_event_Feast of St. Francis of Assisi,10
+cat__calendar_event_Feast of the Immaculate Conception,6
+cat__calendar_event_Final,18
+cat__calendar_event_Flag Day,7
+cat__calendar_event_Flight,6
+cat__calendar_event_Funeral,20
+cat__calendar_event_Graduation,31
+cat__calendar_event_Groundhog Day,1
+cat__calendar_event_Gym,17
+cat__calendar_event_Halloween,14
+cat__calendar_event_Hotel,9
+cat__calendar_event_Idaho Human Rights Day,36
+cat__calendar_event_Inauguration Day,19
+cat__calendar_event_Independence Day,38
+cat__calendar_event_Indigenous Peoples’ Day,2
+cat__calendar_event_Interview,2
+cat__calendar_event_Juneteenth,24
+cat__calendar_event_Kamehameha Day,17
+cat__calendar_event_Kwanzaa,3
+cat__calendar_event_Labor Day,8
+cat__calendar_event_Lecture,8
+cat__calendar_event_Lei Day,17
+cat__calendar_event_Leif Erikson Day,10
+cat__calendar_event_Mardi Gras,28
+cat__calendar_event_Marine Corps Birthday,11
+cat__calendar_event_Martin Luther King Jr. Day,25
+cat__calendar_event_Meeting,14
+cat__calendar_event_Memorial Day,10
+cat__calendar_event_Midterm,9
+cat__calendar_event_Movie,25
+cat__calendar_event_National Aviation Day,13
+cat__calendar_event_National Beer Day,24
+cat__calendar_event_National Children’s Day,17
+cat__calendar_event_National Grandparents Day,1
+cat__calendar_event_National Immigrants Day,10
+cat__calendar_event_National Parents’ Day,30
+cat__calendar_event_National Tartan Day,21
+cat__calendar_event_National Vietnam War Veterans Day,14
+cat__calendar_event_National Wear Red Day,3
+cat__calendar_event_Navy Birthday,28
+cat__calendar_event_Nevada Day,0
+cat__calendar_event_New Year’s Day,39
+cat__calendar_event_New Year’s Eve,40
+cat__calendar_event_Orthodox Easter,14
+cat__calendar_event_Palm Sunday,18
+cat__calendar_event_Party,30
+cat__calendar_event_Patriot Day,19
+cat__calendar_event_Patriot’s Day,8
+cat__calendar_event_Pearl Harbor Remembrance Day,10
+cat__calendar_event_Pioneer Day,9
+cat__calendar_event_Presentation,12
+cat__calendar_event_Presidents’ Day,12
+cat__calendar_event_Prince Jonah Kūhiō Kalaniana‘ole Day,6
+cat__calendar_event_Renewal,11
+cat__calendar_event_Rent Due,16
+cat__calendar_event_Reunion,12
+cat__calendar_event_Road Trip,16
+cat__calendar_event_Rosa Parks Day,22
+cat__calendar_event_San Jacinto Day,30
+cat__calendar_event_School Break,7
+cat__calendar_event_Small Business Saturday,24
+cat__calendar_event_Sports Game,43
+cat__calendar_event_St. Nicholas’ Day,2
+cat__calendar_event_St. Patrick’s Day,19
+cat__calendar_event_Statehood Day in Hawaii,9
+cat__calendar_event_Susan B. Anthony’s Birthday,21
+cat__calendar_event_Sweetest Day,15
+cat__calendar_event_Tax,10
+cat__calendar_event_Texas Independence Day,8
+cat__calendar_event_Thanksgiving,26
+cat__calendar_event_Training,11
+cat__calendar_event_Unity Day,16
+cat__calendar_event_Valentine’s Day,26
+cat__calendar_event_Veterans Day,17
+cat__calendar_event_Victory Day,16
+cat__calendar_event_Wedding,27
+cat__calendar_event_Women’s Equality Day,8
+cat__calendar_event_Yoga,17
+cat__calendar_event_none,224
+cat__contacts_count_0,277
+cat__contacts_count_1,191
+cat__contacts_count_10,45
+cat__contacts_count_10+,56
+cat__contacts_count_2,151
+cat__contacts_count_3,56
+cat__contacts_count_4,59
+cat__contacts_count_5,56
+cat__contacts_count_6,58
+cat__contacts_count_7,50
+cat__contacts_count_8,54
+cat__contacts_count_9,48
+bin__calendar_active,93
+bin__pref_place,75
+bin__pref_calendar_event,83
+bin__pref_contacts,80
+num__hour,1272
